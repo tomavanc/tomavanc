@@ -30,8 +30,9 @@ I'm available for collaborations. Contact me here or on https://www.tasmo.be
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-
+<!--
 ![tomavanc's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomavanc&show_icons=true&bg_color=00000000)
+-->
 
 <!--
 **tomavanc/tomavanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
